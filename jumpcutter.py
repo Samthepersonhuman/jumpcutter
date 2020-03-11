@@ -1,3 +1,4 @@
+#This is the code. unless you know what you are doing, DO NOT MODIFY!
 from contextlib import closing
 from PIL import Image
 import subprocess
