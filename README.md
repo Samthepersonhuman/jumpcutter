@@ -1,4 +1,4 @@
-# jumpcutter UPDATED
+# jumpcutter UPDATED (Files being changed, under construction.)
 Automatically edits videos. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw
 This is forked from CaryKH's Jumpcutter.
 ## Some heads-up:
